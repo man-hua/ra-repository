@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC4_Automation Issue</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9a60a815-4a1d-4b6d-a1af-eda8fcc40c85</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>e0e21886-94e0-4a67-8de5-35b0a85d5eea</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/RA/Automation Issue</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>e0e21886-94e0-4a67-8de5-35b0a85d5eea</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>exception</value>
+      <variableId>8b131bd5-e510-44fd-8889-6221f92ee550</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>e0e21886-94e0-4a67-8de5-35b0a85d5eea</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>url</value>
+      <variableId>03aee650-5559-4707-be16-eb53cc4937aa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8b131bd5-e510-44fd-8889-6221f92ee550</id>
+      <masked>false</masked>
+      <name>exception</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>03aee650-5559-4707-be16-eb53cc4937aa</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

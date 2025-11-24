@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Automation Issue</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>c8048708-86d8-4f58-949c-3730c2ae1276</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>SessionNotFoundException null</data>
+   <data>NoSuchDriverException null</data>
+   <data>SessionNotCreatedException null</data>
+   <data>UnknownMethodException https%3A%2F%2Fwww.example.com</data>
+   <data>NoSuchFrameException https%3A%2F%2Fexample.com</data>
+   <data>NoSuchWindowException https%3A%2F%2Fexample.com</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>exception</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>url</name>
+      <size>6</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

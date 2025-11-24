@@ -1,0 +1,7 @@
+/bin/
+Reports/
+.DS_Store
+settings/
+.cache/
+.settings
+Libs

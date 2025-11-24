@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC6_Environment Issue</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cb0899de-e742-4e5b-a6d5-2b150e56ac2a</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>e59b193b-2f84-4fec-90dd-b4aeca926f5e</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/RA/Environment Issue</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>e59b193b-2f84-4fec-90dd-b4aeca926f5e</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>exception</value>
+      <variableId>205d5ede-eab9-4c94-8013-9c0abecb5629</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>e59b193b-2f84-4fec-90dd-b4aeca926f5e</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>url</value>
+      <variableId>7fbc48b0-fa4a-4441-810c-2403911d2ba0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>205d5ede-eab9-4c94-8013-9c0abecb5629</id>
+      <masked>false</masked>
+      <name>exception</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7fbc48b0-fa4a-4441-810c-2403911d2ba0</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

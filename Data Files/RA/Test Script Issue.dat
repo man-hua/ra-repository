@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Test Script Issue</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>c51924da-0f69-4784-8414-6b32352cfaea</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>NoSuchElementException null</data>
+   <data>InvalidSelectorException null</data>
+   <data>IllegalArgumentException null</data>
+   <data>NoAlertPresentException https%3A%2F%2Fthe-internet.herokuapp.com%2Fjavascript_alerts</data>
+   <data>UnexpectedAlertPresentException https%3A%2F%2Fthe-internet.herokuapp.com%2Fjavascript_alerts</data>
+   <data>UnhandledAlertException https%3A%2F%2Fthe-internet.herokuapp.com%2Fjavascript_alerts</data>
+   <data>UnexpectedTagNameException https%3A%2F%2Fexample.com</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>exception</name>
+      <size>7</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>url</name>
+      <size>7</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
