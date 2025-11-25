@@ -15,15 +15,20 @@
    <data>ElementNotInteractableException_DisplayNone https%3A%2F%2Ffuzzbomb.github.io%2Faccessibility-demos%2Fvisually-hidden-focus-test.html%3Futm_source%3Dchatgpt.com</data>
    <data>StaleElementReferenceException https%3A%2F%2Fthe-internet.herokuapp.com%2Fdynamic_content%3Fwith_content%3Dstatic</data>
    <data>ElementNotInteractableException_Disabled https%3A%2F%2Fwww.w3schools.com%2Ftags%2Ftryit.asp%3Ffilename%3Dtryhtml_input_disabled</data>
+   <data>Unauthorized null</data>
+   <data>Forbidden null</data>
+   <data>BadRequest null</data>
+   <data>InternalServerError null</data>
+   <data>ServiceUnavailable null</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>exception</name>
-      <size>6</size>
+      <size>11</size>
    </internalDataColumns>
    <internalDataColumns>
       <columnIndex>1</columnIndex>
       <name>url</name>
-      <size>6</size>
+      <size>11</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>
    <query></query>

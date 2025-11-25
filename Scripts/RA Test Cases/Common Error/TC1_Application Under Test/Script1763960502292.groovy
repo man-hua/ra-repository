@@ -15,6 +15,16 @@ switch (exception) {
 		error.causeElementNotInteractableException_Disabled()
 	case 'StaleElementReferenceException':
 		error.causeStaleElementReferenceException()
+	case 'Unauthorized':
+		error.causeUnauthorized()
+	case 'Forbidden':
+		error.causeForbidden()
+	case 'BadRequest':
+		error.causeBadRequest()
+	case 'InternalServerError':
+		error.causeInternalServerError()
+	case 'ServiceUnavailable':
+		error.causeServiceUnavailable()
     default:
         break
 }
