@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>Automation Issue</name>
+   <name>Configuration Issue</name>
    <tag></tag>
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>
@@ -13,17 +13,15 @@
    <data>NoSuchDriverException null</data>
    <data>SessionNotCreatedException null</data>
    <data>UnknownMethodException https%3A%2F%2Fwww.example.com</data>
-   <data>NoSuchFrameException https%3A%2F%2Fexample.com</data>
-   <data>NoSuchWindowException https%3A%2F%2Fexample.com</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>exception</name>
-      <size>6</size>
+      <size>4</size>
    </internalDataColumns>
    <internalDataColumns>
       <columnIndex>1</columnIndex>
       <name>url</name>
-      <size>6</size>
+      <size>4</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>
    <query></query>

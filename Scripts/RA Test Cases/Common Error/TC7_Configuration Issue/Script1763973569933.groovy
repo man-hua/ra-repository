@@ -1,6 +1,6 @@
-import ra.common.error.AutomationIssue
+import ra.common.error.ConfigurationIssue
 
-AutomationIssue error = new AutomationIssue()
+ConfigurationIssue error = new ConfigurationIssue()
 
 switch (exception) {
 	case 'SessionNotFoundException': 
@@ -11,10 +11,6 @@ switch (exception) {
 		error.causeSessionNotCreatedException()
 	case 'UnknownMethodException':
 		error.causeUnknownMethodException()
-	case 'NoSuchFrameException':
-		error.causeNoSuchFrameException()
-	case 'NoSuchWindowException':
-		error.causeNoSuchWindowException()
     default:
         break
 }

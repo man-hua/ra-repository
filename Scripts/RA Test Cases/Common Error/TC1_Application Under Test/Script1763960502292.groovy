@@ -15,6 +15,10 @@ switch (exception) {
 		error.causeElementNotInteractableException_Disabled()
 	case 'StaleElementReferenceException':
 		error.causeStaleElementReferenceException()
+	case 'NoSuchFrameException':
+		error.causeNoSuchFrameException()
+	case 'NoSuchWindowException':
+		error.causeNoSuchWindowException()
 	case 'Unauthorized':
 		error.causeUnauthorized()
 	case 'Forbidden':

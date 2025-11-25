@@ -10,15 +10,20 @@
    <dataSourceUrl></dataSourceUrl>
    <driver>InternalData</driver>
    <data>InvalidCookieDomainException null</data>
+   <data>InvalidTestData null</data>
+   <data>DataMismatch null</data>
+   <data>MissingTestData null</data>
+   <data>DataFormatIssue null</data>
+   <data>CaseSensitivityIssue null</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>exception</name>
-      <size>1</size>
+      <size>6</size>
    </internalDataColumns>
    <internalDataColumns>
       <columnIndex>1</columnIndex>
       <name>url</name>
-      <size>1</size>
+      <size>6</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>
    <query></query>

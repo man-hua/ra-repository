@@ -11,7 +11,7 @@ import com.kms.katalon.core.webui.driver.DriverFactory
 
 
 public class ApplicationUnderTest {
-	final String url = "https://mock.httpstatus.io/" 
+	final String url = "https://mock.httpstatus.io/"
 	WebDriver driver = DriverFactory.getWebDriver()
 
 	@Keyword
@@ -55,34 +55,44 @@ public class ApplicationUnderTest {
 		button.click()
 		staleElement.click()
 	}
-	
+
 	@Keyword
-	void causeUnauthorized() {		
+	void causeUnauthorized() {
 		def get = new URL("https://mock.httpstatus.io/401")
 		get.text
 	}
-	
+
 	@Keyword
 	void causeForbidden() {
 		def get = new URL("https://mock.httpstatus.io/403")
 		get.text
 	}
-	
+
 	@Keyword
 	void causeBadRequest() {
 		def get = new URL("https://mock.httpstatus.io/400")
 		get.text
 	}
-	
+
 	@Keyword
 	void causeInternalServerError() {
 		def get = new URL("https://mock.httpstatus.io/500")
 		get.text
 	}
-	
+
 	@Keyword
 	void causeServiceUnavailable() {
 		def get = new URL("https://mock.httpstatus.io/503")
 		get.text
+	}
+
+	@Keyword
+	def causeNoSuchFrameException() {
+		driver.switchTo().frame("nonexistent")
+	}
+
+	@Keyword
+	def causeNoSuchWindowException() {
+		driver.switchTo().window("nonexistent")
 	}
 }

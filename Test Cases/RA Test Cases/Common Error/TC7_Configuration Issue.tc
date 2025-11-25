@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC4_Automation Issue</name>
+   <name>TC7_Configuration Issue</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
@@ -13,7 +13,7 @@
          <iterationType>ALL</iterationType>
          <value></value>
       </iterationEntity>
-      <testDataId>Data Files/RA/Automation Issue</testDataId>
+      <testDataId>Data Files/RA/Configuration Issue</testDataId>
    </testDataLinks>
    <variableLinks>
       <testDataLinkId>e0e21886-94e0-4a67-8de5-35b0a85d5eea</testDataLinkId>

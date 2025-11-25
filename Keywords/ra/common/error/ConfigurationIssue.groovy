@@ -9,7 +9,7 @@ import com.kms.katalon.core.annotation.Keyword
 import com.kms.katalon.core.webui.driver.DriverFactory
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
-public class AutomationIssue {
+public class ConfigurationIssue {
 	WebDriver driver = DriverFactory.getWebDriver()
 
 	@Keyword
@@ -35,15 +35,5 @@ public class AutomationIssue {
 	@Keyword
 	def causeUnknownMethodException() {
 		driver.executeScript("return window.someNonExistentFunction();")
-	}
-
-	@Keyword
-	def causeNoSuchFrameException() {
-		driver.switchTo().frame("nonexistent")
-	}
-
-	@Keyword
-	def causeNoSuchWindowException() {
-		driver.switchTo().window("nonexistent");
-	}
+	}	
 }

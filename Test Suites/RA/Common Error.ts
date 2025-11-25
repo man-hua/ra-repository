@@ -72,7 +72,7 @@
       <guid>154fa9a3-f8af-4cca-b08e-e77d48860af5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/RA Test Cases/Common Error/TC4_Automation Issue</testCaseId>
+      <testCaseId>Test Cases/RA Test Cases/Common Error/TC7_Configuration Issue</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>

@@ -20,15 +20,17 @@
    <data>BadRequest null</data>
    <data>InternalServerError null</data>
    <data>ServiceUnavailable null</data>
+   <data>NoSuchFrameException https%3A%2F%2Fexample.com</data>
+   <data>NoSuchWindowException https%3A%2F%2Fexample.com</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>exception</name>
-      <size>11</size>
+      <size>13</size>
    </internalDataColumns>
    <internalDataColumns>
       <columnIndex>1</columnIndex>
       <name>url</name>
-      <size>11</size>
+      <size>13</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>
    <query></query>
