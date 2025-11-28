@@ -9,28 +9,37 @@
    <dataFileGUID>5cc88c35-502d-4799-809c-e7065b88eecc</dataFileGUID>
    <dataSourceUrl></dataSourceUrl>
    <driver>InternalData</driver>
-   <data>JavascriptException null</data>
-   <data>ElementClickInterceptedException https%3A%2F%2Fpreview.keenthemes.com%2Fmetronic%2Fdemo8%2Ffeatures%2Fmiscellaneous%2Fblockui.html%3Futm_source%3Dchatgpt.com</data>
-   <data>TimeoutException null</data>
-   <data>ElementNotInteractableException_DisplayNone https%3A%2F%2Ffuzzbomb.github.io%2Faccessibility-demos%2Fvisually-hidden-focus-test.html%3Futm_source%3Dchatgpt.com</data>
-   <data>StaleElementReferenceException https%3A%2F%2Fthe-internet.herokuapp.com%2Fdynamic_content%3Fwith_content%3Dstatic</data>
-   <data>ElementNotInteractableException_Disabled https%3A%2F%2Fwww.w3schools.com%2Ftags%2Ftryit.asp%3Ffilename%3Dtryhtml_input_disabled</data>
-   <data>Unauthorized null</data>
-   <data>Forbidden null</data>
-   <data>BadRequest null</data>
-   <data>InternalServerError null</data>
-   <data>ServiceUnavailable null</data>
-   <data>NoSuchFrameException https%3A%2F%2Fexample.com</data>
-   <data>NoSuchWindowException https%3A%2F%2Fexample.com</data>
+   <data>JavascriptException null null</data>
+   <data>ElementClickInterceptedException https%3A%2F%2Fpreview.keenthemes.com%2Fmetronic%2Fdemo8%2Ffeatures%2Fmiscellaneous%2Fblockui.html%3Futm_source%3Dchatgpt.com FE</data>
+   <data>NoSuchElementException null Test+Script</data>
+   <data>ElementNotInteractableException_DisplayNone https%3A%2F%2Ffuzzbomb.github.io%2Faccessibility-demos%2Fvisually-hidden-focus-test.html%3Futm_source%3Dchatgpt.com FE</data>
+   <data>StaleElementReferenceException https%3A%2F%2Fthe-internet.herokuapp.com%2Fdynamic_content%3Fwith_content%3Dstatic FE</data>
+   <data>ElementNotInteractableException_Disabled https%3A%2F%2Fwww.w3schools.com%2Ftags%2Ftryit.asp%3Ffilename%3Dtryhtml_input_disabled fe</data>
+   <data>Unauthorized null api</data>
+   <data>Forbidden null null</data>
+   <data>BadRequest null null</data>
+   <data>InternalServerError null null</data>
+   <data>ServiceUnavailable null null</data>
+   <data>NoSuchFrameException https%3A%2F%2Fexample.com fe</data>
+   <data>NoSuchWindowException https%3A%2F%2Fexample.com null</data>
+   <data>NoAlertPresentException https%3A%2F%2Fthe-internet.herokuapp.com%2Fjavascript_alerts null</data>
+   <data>UnexpectedAlertPresentException https%3A%2F%2Fthe-internet.herokuapp.com%2Fjavascript_alerts null</data>
+   <data>UnhandledAlertException https%3A%2F%2Fthe-internet.herokuapp.com%2Fjavascript_alerts null</data>
+   <data>UnexpectedTagNameException https%3A%2F%2Fexample.com null</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>exception</name>
-      <size>13</size>
+      <size>17</size>
    </internalDataColumns>
    <internalDataColumns>
       <columnIndex>1</columnIndex>
       <name>url</name>
-      <size>13</size>
+      <size>17</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>subcate</name>
+      <size>17</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>
    <query></query>

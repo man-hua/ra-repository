@@ -3,32 +3,57 @@ import ra.common.error.ApplicationUnderTest as ApplicationUnderTest
 ApplicationUnderTest error = new ApplicationUnderTest()
 
 switch (exception) {
+	case 'NoSuchElementException':
+		error.causeNoSuchElementException()
+		break
     case 'JavascriptException':
         error.causeJavascriptException()
-    case 'TimeoutException':
-        error.causeTimeoutException()
+		break
 	case 'ElementClickInterceptedException':
 		error.causeElementClickInterceptedException()
+		break
 	case 'ElementNotInteractableException_DisplayNone':
 		error.causeElementNotInteractableException_DisplayNone()
+		break
 	case 'ElementNotInteractableException_Disabled':
 		error.causeElementNotInteractableException_Disabled()
+		break
 	case 'StaleElementReferenceException':
 		error.causeStaleElementReferenceException()
+		break
 	case 'NoSuchFrameException':
 		error.causeNoSuchFrameException()
+		break
 	case 'NoSuchWindowException':
 		error.causeNoSuchWindowException()
+		break
 	case 'Unauthorized':
 		error.causeUnauthorized()
+		break
 	case 'Forbidden':
 		error.causeForbidden()
+		break
 	case 'BadRequest':
 		error.causeBadRequest()
+		break
 	case 'InternalServerError':
 		error.causeInternalServerError()
+		break
 	case 'ServiceUnavailable':
 		error.causeServiceUnavailable()
+		break
+	case 'NoAlertPresentException':
+		error.causeNoAlertPresentException()
+		break
+	case 'UnexpectedAlertPresentException':
+		error.causeUnexpectedAlertPresentException()
+		break
+	case 'UnhandledAlertException':
+		error.causeUnhandledAlertException()
+		break
+	case 'UnexpectedTagNameException':
+		error.causeUnexpectedTagNameException()
+		break
     default:
         break
 }

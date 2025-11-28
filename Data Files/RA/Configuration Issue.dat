@@ -13,15 +13,16 @@
    <data>NoSuchDriverException null</data>
    <data>SessionNotCreatedException null</data>
    <data>UnknownMethodException https%3A%2F%2Fwww.example.com</data>
+   <data>RemoteDriverServerException null</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>exception</name>
-      <size>4</size>
+      <size>5</size>
    </internalDataColumns>
    <internalDataColumns>
       <columnIndex>1</columnIndex>
       <name>url</name>
-      <size>4</size>
+      <size>5</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>
    <query></query>

@@ -18,9 +18,4 @@ public class EnvironmentIssue {
 		Actions actions = new Actions(driver)
 		actions.moveToElement(element, -1000, -1000).click().perform()
 	}
-
-	@Keyword
-	def causeRemoteDriverServerException() {
-		new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), new org.openqa.selenium.MutableCapabilities())
-	}
 }

@@ -5,8 +5,7 @@ EnvironmentIssue error = new EnvironmentIssue()
 switch (exception) {
 	case 'MoveTargetOutOfBounds': // NoSuchElementException
 		error.causeMoveTargetOutOfBounds()
-	case 'RemoteDriverServerException':
-		error.causeRemoteDriverServerException()
+		break
     default:
         break
 }

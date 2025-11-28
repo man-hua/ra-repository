@@ -9,16 +9,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 import internal.GlobalVariable
 
-class TestListener {
-	/**
-	 * Executes before every test suite starts.
-	 * @param testSuiteContext: related information of the executed test suite.
-	 */
-	@BeforeTestSuite
-	def sampleBeforeTestSuite(TestSuiteContext testSuiteContext) {
-		KatalonHelper.updateInfo()
-	}
-	
+class TestListener {	
 	@BeforeTestCase
 	def openBrowserBeforeTestCase(TestCaseContext testCaseContext) {
 		if(testCaseContext.getTestCaseVariables().containsKey("url"))

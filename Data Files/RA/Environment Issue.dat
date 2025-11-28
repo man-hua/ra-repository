@@ -9,17 +9,21 @@
    <dataFileGUID>4ec7f93a-a716-41f2-ad1b-9ef7e6738cb9</dataFileGUID>
    <dataSourceUrl></dataSourceUrl>
    <driver>InternalData</driver>
-   <data>MoveTargetOutOfBounds https%3A%2F%2Fthe-internet.herokuapp.com%2Fjavascript_alerts</data>
-   <data>RemoteDriverServerException null</data>
+   <data>MoveTargetOutOfBounds https%3A%2F%2Fthe-internet.herokuapp.com%2Fjavascript_alerts environment%2C+test+script</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>exception</name>
-      <size>2</size>
+      <size>1</size>
    </internalDataColumns>
    <internalDataColumns>
       <columnIndex>1</columnIndex>
       <name>url</name>
-      <size>2</size>
+      <size>1</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>subcate</name>
+      <size>1</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>
    <query></query>

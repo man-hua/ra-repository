@@ -9,12 +9,12 @@
    <dataFileGUID>bb4b877c-34d1-4269-afd5-9f9884237bf2</dataFileGUID>
    <dataSourceUrl></dataSourceUrl>
    <driver>InternalData</driver>
-   <data>InvalidCookieDomainException null</data>
-   <data>InvalidTestData null</data>
-   <data>DataMismatch null</data>
-   <data>MissingTestData null</data>
-   <data>DataFormatIssue null</data>
-   <data>CaseSensitivityIssue null</data>
+   <data>InvalidCookieDomainException null configuration</data>
+   <data>InvalidTestData null null</data>
+   <data>DataMismatch null null</data>
+   <data>MissingTestData null null</data>
+   <data>DataFormatIssue null null</data>
+   <data>CaseSensitivityIssue null null</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>exception</name>
@@ -23,6 +23,11 @@
    <internalDataColumns>
       <columnIndex>1</columnIndex>
       <name>url</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>subcate</name>
       <size>6</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>

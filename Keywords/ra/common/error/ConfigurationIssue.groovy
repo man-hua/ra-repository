@@ -1,5 +1,6 @@
 package ra.common.error
 
+import org.openqa.selenium.Cookie
 import org.openqa.selenium.WebDriver
 import org.openqa.selenium.chrome.ChromeDriver
 import org.openqa.selenium.chrome.ChromeOptions
@@ -35,5 +36,18 @@ public class ConfigurationIssue {
 	@Keyword
 	def causeUnknownMethodException() {
 		driver.executeScript("return window.someNonExistentFunction();")
-	}	
+	}
+
+	@Keyword
+	def causeRemoteDriverServerException() {
+		new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), new org.openqa.selenium.MutableCapabilities())
+	}
+
+	@Keyword
+	void causeInvalidCookieDomainException() {
+		Cookie invalidDomainCookie = new Cookie.Builder('testCookie', 'testValue')
+				.domain('invalid-domain.com')
+				.build()
+		driver.manage().addCookie(invalidDomainCookie)
+	}
 }
