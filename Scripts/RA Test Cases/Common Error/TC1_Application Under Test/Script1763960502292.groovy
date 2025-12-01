@@ -1,3 +1,5 @@
+import com.kms.katalon.core.util.KeywordUtil
+
 import ra.common.error.ApplicationUnderTest as ApplicationUnderTest
 
 ApplicationUnderTest error = new ApplicationUnderTest()
@@ -52,6 +54,7 @@ switch (exception) {
 		error.causeUnhandledAlertException()
 		break
 	case 'UnexpectedTagNameException':
+		KeywordUtil.markErrorAndStop("Library is not included, please reinstall the npm to continue the run")
 		error.causeUnexpectedTagNameException()
 		break
     default:

@@ -9,10 +9,10 @@
    <dataFileGUID>c51924da-0f69-4784-8414-6b32352cfaea</dataFileGUID>
    <dataSourceUrl></dataSourceUrl>
    <driver>InternalData</driver>
-   <data>TimeoutException null fe</data>
-   <data>InvalidSelectorException null locator</data>
-   <data>IllegalArgumentException null script+logic</data>
-   <data>NoAlertPresentException https%3A%2F%2Fthe-internet.herokuapp.com%2Fjavascript_alerts fe%2C+script+logic</data>
+   <data>TimeoutException null</data>
+   <data>InvalidSelectorException null</data>
+   <data>IllegalArgumentException null</data>
+   <data>NoAlertPresentException https%3A%2F%2Fthe-internet.herokuapp.com%2Fjavascript_alerts</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>exception</name>
@@ -21,11 +21,6 @@
    <internalDataColumns>
       <columnIndex>1</columnIndex>
       <name>url</name>
-      <size>4</size>
-   </internalDataColumns>
-   <internalDataColumns>
-      <columnIndex>2</columnIndex>
-      <name>subcate</name>
       <size>4</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>

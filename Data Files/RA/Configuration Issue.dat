@@ -14,15 +14,16 @@
    <data>SessionNotCreatedException null</data>
    <data>UnknownMethodException https%3A%2F%2Fwww.example.com</data>
    <data>RemoteDriverServerException null</data>
+   <data>InvalidCookieDomainException null</data>
    <internalDataColumns>
       <columnIndex>0</columnIndex>
       <name>exception</name>
-      <size>5</size>
+      <size>6</size>
    </internalDataColumns>
    <internalDataColumns>
       <columnIndex>1</columnIndex>
       <name>url</name>
-      <size>5</size>
+      <size>6</size>
    </internalDataColumns>
    <isInternalPath>false</isInternalPath>
    <query></query>
