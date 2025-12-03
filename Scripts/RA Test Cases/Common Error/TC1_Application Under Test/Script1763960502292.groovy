@@ -52,10 +52,8 @@ switch (exception) {
 		break
 	case 'UnhandledAlertException':
 		error.causeUnhandledAlertException()
-		
 		break
 	case 'UnexpectedTagNameException':
-		KeywordUtil.markErrorAndStop("Not Found Issue")
 		error.causeUnexpectedTagNameException()
 		break
     default:
