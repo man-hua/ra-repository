@@ -52,9 +52,10 @@ switch (exception) {
 		break
 	case 'UnhandledAlertException':
 		error.causeUnhandledAlertException()
+		
 		break
 	case 'UnexpectedTagNameException':
-		KeywordUtil.markErrorAndStop("Library is not included, please reinstall the npm to continue the run")
+		KeywordUtil.markErrorAndStop("Not Found Issue")
 		error.causeUnexpectedTagNameException()
 		break
     default:
