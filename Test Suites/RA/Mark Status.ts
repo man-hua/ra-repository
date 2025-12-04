@@ -12,45 +12,45 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>d9719d8a-83b0-4f2f-847d-cac8a29a0ea1</testSuiteGuid>
    <testCaseLink>
-      <guid>7ba3a67a-26d0-4d0a-88c9-020c4288d2e4</guid>
+      <guid>ecb8f5b1-44f9-4926-bcca-82579ff75736</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/RA Test Cases/Mark Passed</testCaseId>
+      <testCaseId>Test Cases/RA Test Cases/Mark Status</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>9bff9e36-9fcc-4990-865a-0153a5faf3a6</guid>
+      <guid>b0eeb539-899d-42d4-b690-47fb65cedbf5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/RA Test Cases/Mark Passed</testCaseId>
+      <testCaseId>Test Cases/RA Test Cases/Mark Status</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>e884f928-94e0-4f78-afcf-b3d33aea8ffa</guid>
+      <guid>2830f506-494d-4236-8192-706bbfef0a8d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/RA Test Cases/Mark Passed</testCaseId>
+      <testCaseId>Test Cases/RA Test Cases/Mark Status</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>44eb0e92-3330-4360-a571-07d8699bd3d0</guid>
+      <guid>0392e9ab-cf8c-4966-ad81-70b9d808c27b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/RA Test Cases/Mark Passed</testCaseId>
+      <testCaseId>Test Cases/RA Test Cases/Mark Status</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>3001cb65-40df-4fd1-b841-109f03d31413</guid>
+      <guid>87902913-2213-4b57-93ed-c94342cc508e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/RA Test Cases/Mark Passed</testCaseId>
+      <testCaseId>Test Cases/RA Test Cases/Mark Status</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>96881b9f-5698-41a4-926b-b00e2d06e4b0</guid>
+      <guid>4a3b9c55-30f7-439b-ade7-69979d19205d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/RA Test Cases/Mark Passed</testCaseId>
+      <testCaseId>Test Cases/RA Test Cases/Mark Status</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
