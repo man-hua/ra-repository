@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Mark Status</name>
+   <name>Test Case - Log Info</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>55c98531-53b4-4526-b0be-99ab0a60c8c4</testCaseGuid>
+   <testCaseGuid>96727aff-368e-40db-82a1-09d9eb28772c</testCaseGuid>
 </TestCaseEntity>
