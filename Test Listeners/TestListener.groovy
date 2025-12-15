@@ -12,6 +12,9 @@ import internal.GlobalVariable
 class TestListener {	
 	@BeforeTestCase
 	def openBrowserBeforeTestCase(TestCaseContext testCaseContext) {
+		String[] testCasePath = testCaseContext.getTestCaseId().split("/")
+		if(!testCasePath.last().contains("_WEB_"))
+			return
 		if(testCaseContext.getTestCaseVariables().containsKey("url"))
 			WebUI.openBrowser(testCaseContext.getTestCaseVariables().get("url"))
 		else
@@ -20,6 +23,9 @@ class TestListener {
 	
 	@AfterTestCase
 	def closeBrowserAfterTestCase(TestCaseContext testCaseContext) {
+		String[] testCasePath = testCaseContext.getTestCaseId().split("/")
+		if(!testCasePath.last().contains("_WEB_"))
+			return
 		WebUI.closeBrowser()
 	}
 }

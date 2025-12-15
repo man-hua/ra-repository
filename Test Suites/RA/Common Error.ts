@@ -15,7 +15,7 @@
       <guid>2252093b-7842-49ae-b1db-75ab990e6f45</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/RA Test Cases/Common Error/TC1_Application Under Test</testCaseId>
+      <testCaseId>Test Cases/RA Test Cases/Common Error/TC1_WEB_Application Under Test</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -34,7 +34,7 @@
       <guid>0bae05aa-6d10-4e38-a108-a2201a741050</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/RA Test Cases/Common Error/TC2_Test Script Issue</testCaseId>
+      <testCaseId>Test Cases/RA Test Cases/Common Error/TC2_WEB_Test Script Issue</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -53,7 +53,7 @@
       <guid>ce67e25c-5827-452e-9860-2a8a14c4a7d6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/RA Test Cases/Common Error/TC3_Test Data Issue</testCaseId>
+      <testCaseId>Test Cases/RA Test Cases/Common Error/TC3_WEB_Test Data Issue</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -72,7 +72,7 @@
       <guid>154fa9a3-f8af-4cca-b08e-e77d48860af5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/RA Test Cases/Common Error/TC7_Configuration Issue</testCaseId>
+      <testCaseId>Test Cases/RA Test Cases/Common Error/TC7_WEB_Configuration Issue</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -91,7 +91,7 @@
       <guid>b47d6d57-43c3-4726-abdb-dc55e847b491</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/RA Test Cases/Common Error/TC6_Environment Issue</testCaseId>
+      <testCaseId>Test Cases/RA Test Cases/Common Error/TC6_WEB_Environment Issue</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
