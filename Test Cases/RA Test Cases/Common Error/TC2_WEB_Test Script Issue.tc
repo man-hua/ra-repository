@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC7_Configuration Issue</name>
+   <name>TC2_WEB_Test Script Issue</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>9a60a815-4a1d-4b6d-a1af-eda8fcc40c85</testCaseGuid>
+   <testCaseGuid>54e5f928-2e19-41e6-a9f5-fc240eb9ae99</testCaseGuid>
    <testDataLinks>
       <combinationType>ONE</combinationType>
-      <id>e0e21886-94e0-4a67-8de5-35b0a85d5eea</id>
+      <id>071b9949-958f-485d-a74b-9bad1fdd4f41</id>
       <iterationEntity>
          <iterationType>ALL</iterationType>
          <value></value>
       </iterationEntity>
-      <testDataId>Data Files/RA/Configuration Issue</testDataId>
+      <testDataId>Data Files/RA/Test Script Issue</testDataId>
    </testDataLinks>
    <variableLinks>
-      <testDataLinkId>e0e21886-94e0-4a67-8de5-35b0a85d5eea</testDataLinkId>
-      <type>DATA_COLUMN</type>
-      <value>exception</value>
-      <variableId>8b131bd5-e510-44fd-8889-6221f92ee550</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId>e0e21886-94e0-4a67-8de5-35b0a85d5eea</testDataLinkId>
+      <testDataLinkId>071b9949-958f-485d-a74b-9bad1fdd4f41</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>url</value>
-      <variableId>03aee650-5559-4707-be16-eb53cc4937aa</variableId>
+      <variableId>c78adf38-5369-4ded-9d53-d7c0ddb11e4f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>071b9949-958f-485d-a74b-9bad1fdd4f41</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>exception</value>
+      <variableId>0ba57ab0-351a-46cf-9239-a23b112290c4</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>8b131bd5-e510-44fd-8889-6221f92ee550</id>
+      <id>c78adf38-5369-4ded-9d53-d7c0ddb11e4f</id>
       <masked>false</masked>
-      <name>exception</name>
+      <name>url</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>03aee650-5559-4707-be16-eb53cc4937aa</id>
+      <id>0ba57ab0-351a-46cf-9239-a23b112290c4</id>
       <masked>false</masked>
-      <name>url</name>
+      <name>exception</name>
    </variable>
 </TestCaseEntity>
