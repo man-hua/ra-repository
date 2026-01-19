@@ -94,7 +94,7 @@ public class ApplicationUnderTest {
 	def causeNoSuchWindowException() {
 		driver.switchTo().window("nonexistent")
 	}
-	
+
 	@Keyword
 	def causeNoAlertPresentException() {
 		driver.switchTo().alert()
