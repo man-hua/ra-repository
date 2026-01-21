@@ -13,7 +13,7 @@ class TestListener {
 	@BeforeTestCase
 	def openBrowserBeforeTestCase(TestCaseContext testCaseContext) {
 		String[] testCasePath = testCaseContext.getTestCaseId().split("/")
-		if(!testCasePath.last().contains("_WEB_"))
+		if(!testCasePath.last().contains("WEB_"))
 			return
 		if(testCaseContext.getTestCaseVariables().containsKey("url"))
 			WebUI.openBrowser(testCaseContext.getTestCaseVariables().get("url"))
@@ -24,7 +24,7 @@ class TestListener {
 	@AfterTestCase
 	def closeBrowserAfterTestCase(TestCaseContext testCaseContext) {
 		String[] testCasePath = testCaseContext.getTestCaseId().split("/")
-		if(!testCasePath.last().contains("_WEB_"))
+		if(!testCasePath.last().contains("WEB_"))
 			return
 		WebUI.closeBrowser()
 	}
