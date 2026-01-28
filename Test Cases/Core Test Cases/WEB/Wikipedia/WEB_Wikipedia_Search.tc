@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WEB_Wikipedia_Search</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a44f0fb2-2b26-4bce-8256-e63a16f572ac</testCaseGuid>
+</TestCaseEntity>

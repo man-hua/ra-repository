@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WEB_Auth_01_Login_Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df5bdb43-3ed3-40e1-9513-cb7a586a01ad</testCaseGuid>
+</TestCaseEntity>

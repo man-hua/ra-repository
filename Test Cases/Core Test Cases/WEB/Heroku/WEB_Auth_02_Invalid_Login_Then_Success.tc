@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WEB_Auth_02_Invalid_Login_Then_Success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a3e42fb4-3347-42e3-9e89-426e688a6741</testCaseGuid>
+</TestCaseEntity>

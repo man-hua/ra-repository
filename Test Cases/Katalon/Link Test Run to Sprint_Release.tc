@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Link Test Run to Sprint_Release</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e302d881-c310-4a2a-94f0-46a118def97a</testCaseGuid>
+</TestCaseEntity>

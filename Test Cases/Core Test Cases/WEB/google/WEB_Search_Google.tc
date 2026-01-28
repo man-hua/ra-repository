@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WEB_Search_Google</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>83d47509-8682-44e7-a92c-fde8db21fab1</testCaseGuid>
+</TestCaseEntity>

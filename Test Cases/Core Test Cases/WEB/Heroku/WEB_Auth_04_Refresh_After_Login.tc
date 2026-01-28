@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WEB_Auth_04_Refresh_After_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5e5affc2-0d41-46af-be11-207c7c8cf71b</testCaseGuid>
+</TestCaseEntity>

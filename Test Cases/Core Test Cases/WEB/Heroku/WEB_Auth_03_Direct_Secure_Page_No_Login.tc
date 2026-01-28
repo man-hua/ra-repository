@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WEB_Auth_03_Direct_Secure_Page_No_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a4c02154-522f-4592-a9cd-8090ff3ba522</testCaseGuid>
+</TestCaseEntity>
