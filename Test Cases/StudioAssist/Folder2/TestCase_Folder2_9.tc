@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestCase_Folder2_9</name>
+   <tag>test 11,test 22</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>96bd95ea-3a4f-47d3-bb59-87f495060fe6</testCaseGuid>
+</TestCaseEntity>

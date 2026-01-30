@@ -1,0 +1,8 @@
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+
+// Example test script
+WebUI.openBrowser('')
+WebUI.navigateToUrl('https://www.example.com')
+WebUI.verifyElementPresent(findTestObject('Page_Example/element1'), 10)
+WebUI.closeBrowser()
