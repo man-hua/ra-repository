@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Link Test Case to Requirement</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>00d1faf1-16a7-4dbf-8d7a-3dfc582a0d0c</testCaseGuid>
+</TestCaseEntity>

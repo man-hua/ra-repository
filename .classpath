@@ -303,6 +303,5 @@
 	<classpathentry kind="lib" path="/Users/man.hua/git/ra-repository/Drivers/driver-bundle-1.57.0.jar"/>
 	<classpathentry kind="lib" path="/Users/man.hua/git/ra-repository/Drivers/playwright-1.57.0.jar"/>
 	<classpathentry kind="con" path="GROOVY_SUPPORT"/>
-	<classpathentry kind="con" path="GROOVY_DSL_SUPPORT"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
