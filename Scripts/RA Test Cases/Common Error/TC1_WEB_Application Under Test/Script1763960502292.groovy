@@ -1,5 +1,3 @@
-import com.kms.katalon.core.util.KeywordUtil
-
 import ra.common.error.ApplicationUnderTest as ApplicationUnderTest
 
 ApplicationUnderTest error = new ApplicationUnderTest()
