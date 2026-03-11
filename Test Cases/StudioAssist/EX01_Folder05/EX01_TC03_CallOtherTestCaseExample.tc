@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sample script calling another test case (reusable component example)</description>
+   <name>EX01_TC03_CallOtherTestCaseExample</name>
+   <tag>reuse,EX01,test 11,test 22</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e98a7dff-b102-4712-a1f7-783efbd032ee</testCaseGuid>
+</TestCaseEntity>

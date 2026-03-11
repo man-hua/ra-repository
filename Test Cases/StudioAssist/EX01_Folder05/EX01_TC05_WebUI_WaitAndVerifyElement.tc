@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sample Web UI script: wait for element then verify clickable</description>
+   <name>EX01_TC05_WebUI_WaitAndVerifyElement</name>
+   <tag>wait,EX01,web,test 11,test 22</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e47757db-af1a-4132-8332-cfdedf9adc4a</testCaseGuid>
+</TestCaseEntity>

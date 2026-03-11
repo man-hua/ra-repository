@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sample Web UI script: open site and take screenshot</description>
+   <name>EX01_TC04_TakeScreenshotExample</name>
+   <tag>artifact,EX01,web,test 11,test 22</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d64147d9-c859-4dfc-84a2-f1b9c055708e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sample data-driven style test (self-contained): loops over in-script data and logs results</description>
+   <name>EX01_TC01_DataDriven_LoopOverRows</name>
+   <tag>EX01,data,test 11,test 22</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7f350490-c38d-40f6-9f99-793f721458b5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sample Web UI test: verify footer exists</description>
+   <name>EX01_TC02_VerifyFooterPresent</name>
+   <tag>EX01,web,test 11,test 22</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>37cd6a09-9ca9-4fec-a10a-c7a62e20bc46</testCaseGuid>
+</TestCaseEntity>

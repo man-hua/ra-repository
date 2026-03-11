@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sample Web UI test: open CURA demo site and verify landing text</description>
+   <name>EX01_TC01_OpenHomeAndVerify</name>
+   <tag>EX01,web,smoke</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a0db2de5-7090-4fba-b614-c643c468251e</testCaseGuid>
+</TestCaseEntity>

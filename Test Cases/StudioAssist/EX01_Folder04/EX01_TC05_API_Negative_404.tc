@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sample API negative test: verify 404 from /status/404</description>
+   <name>EX01_TC05_API_Negative_404</name>
+   <tag>negative,EX01,test 11,test 22,api</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0832c899-e3ac-4f95-8ff7-e94e45861da6</testCaseGuid>
+</TestCaseEntity>

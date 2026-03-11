@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sample Web UI test: open CURA site and verify title contains 'CURA'</description>
+   <name>EX01_TC01_NavigateAndVerifyTitle</name>
+   <tag>EX01,web,test 11,test 22</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0a332841-90b5-4e90-9566-38fda98e2b1f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sample script showing how to read GlobalVariables</description>
+   <name>EX01_TC02_UseGlobalVariableExample</name>
+   <tag>EX01,test 11,test 22,config</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b4bcb87b-d49f-40ef-96af-d364f4bf78e2</testCaseGuid>
+</TestCaseEntity>

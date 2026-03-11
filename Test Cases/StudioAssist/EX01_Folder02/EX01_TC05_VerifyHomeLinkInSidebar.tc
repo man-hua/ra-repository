@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sample Web UI test: open menu and verify Home link exists</description>
+   <name>EX01_TC05_VerifyHomeLinkInSidebar</name>
+   <tag>EX01,web,test 11,test 22</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>67d054ac-12bc-4cb2-b2cc-d18533efed15</testCaseGuid>
+</TestCaseEntity>

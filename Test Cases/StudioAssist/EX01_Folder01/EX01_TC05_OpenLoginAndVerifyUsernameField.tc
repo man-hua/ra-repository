@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sample Web UI test: open login and verify username field exists</description>
+   <name>EX01_TC05_OpenLoginAndVerifyUsernameField</name>
+   <tag>EX01,web</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d0b3e7e6-4c80-4d3e-83a0-56f6df02e905</testCaseGuid>
+</TestCaseEntity>

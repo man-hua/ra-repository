@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sample Web UI test: verify header is visible on home page</description>
+   <name>EX01_TC03_VerifyHeaderIsVisible</name>
+   <tag>EX01,web</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b6e3812d-7a68-4eb0-aafa-225755e92fcd</testCaseGuid>
+</TestCaseEntity>

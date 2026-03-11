@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sample Web UI test: open sidebar menu and verify items exist</description>
+   <name>EX01_TC04_OpenSidebarMenu</name>
+   <tag>EX01,web,test 11,test 22</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>004f93d1-b8d5-437f-8ee1-e962d7107f73</testCaseGuid>
+</TestCaseEntity>

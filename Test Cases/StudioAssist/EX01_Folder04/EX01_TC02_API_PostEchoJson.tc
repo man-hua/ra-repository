@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sample API test using built-in WS keywords (POST)</description>
+   <name>EX01_TC02_API_PostEchoJson</name>
+   <tag>EX01,test 11,test 22,api</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3d7fa44e-d98f-4794-bf9c-ce92e6bd0fc8</testCaseGuid>
+</TestCaseEntity>

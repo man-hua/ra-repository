@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sample API test using built-in WS keywords (GET)</description>
+   <name>EX01_TC01_API_GetPublicEndpoint</name>
+   <tag>EX01,test 11,test 22,api</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>876eaa45-848e-4e75-873f-346250d0b4c3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sample API test: verify response time below threshold</description>
+   <name>EX01_TC03_API_VerifyResponseTime</name>
+   <tag>EX01,test 11,test 22,api,perf</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>086d0b40-d140-4eef-99f3-90639df0c2f3</testCaseGuid>
+</TestCaseEntity>

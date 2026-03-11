@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sample Web UI test: verify login button present and clickable</description>
+   <name>EX01_TC05_VerifyLoginButtonEnabled</name>
+   <tag>EX01,web,test 11,test 22,login</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d32a63a4-71bf-4b29-b376-d4cc11614466</testCaseGuid>
+</TestCaseEntity>

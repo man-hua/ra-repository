@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sample API test: verify headers exist</description>
+   <name>EX01_TC04_API_VerifyHeaders</name>
+   <tag>EX01,test 11,test 22,api</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5a84dd73-7ea4-4dac-b306-b83767147e0c</testCaseGuid>
+</TestCaseEntity>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteCollectionEntity>
    <description></description>
-   <name>TSC_Folder with name</name>
+   <name>TSC_EX01</name>
    <tag></tag>
    <delayBetweenInstances>0</delayBetweenInstances>
    <executionMode>PARALLEL</executionMode>
@@ -15,7 +15,7 @@
             <runConfigurationId>Firefox</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/StudioAssist/Folder/Folder02_WebUI</testSuiteEntity>
+         <testSuiteEntity>Test Suites/StudioAssist/EX01/EX01_Folder03</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -25,7 +25,7 @@
             <runConfigurationId>Firefox</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/StudioAssist/Folder/Folder04_DataDriven</testSuiteEntity>
+         <testSuiteEntity>Test Suites/StudioAssist/EX01/EX01_Folder01</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -35,7 +35,7 @@
             <runConfigurationId>Firefox</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/StudioAssist/Folder/Folder05_Utilities</testSuiteEntity>
+         <testSuiteEntity>Test Suites/StudioAssist/EX01/EX01_Folder02</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -45,7 +45,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/StudioAssist/Folder/Folder03_API</testSuiteEntity>
+         <testSuiteEntity>Test Suites/StudioAssist/EX01/EX01_Folder05</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -55,7 +55,7 @@
             <runConfigurationId>Firefox</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/StudioAssist/Folder/Folder01_Basics</testSuiteEntity>
+         <testSuiteEntity>Test Suites/StudioAssist/EX01/EX01_Folder04</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

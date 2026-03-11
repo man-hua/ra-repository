@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sample Web UI test: invalid login shows error message</description>
+   <name>EX01_TC02_VerifyLoginErrorWithInvalidCreds</name>
+   <tag>negative,EX01,web,test 11,test 22,login</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>70ba264e-7984-493c-b139-be3dbf11e542</testCaseGuid>
+</TestCaseEntity>

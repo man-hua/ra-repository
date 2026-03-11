@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sample Web UI test: verify menu toggle exists</description>
+   <name>EX01_TC04_VerifyMenuButton</name>
+   <tag>EX01,web</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>55b56e1d-57e9-4464-a1f9-eed871aa5141</testCaseGuid>
+</TestCaseEntity>

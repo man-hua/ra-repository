@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sample Web UI test: login page -> verify facility select exists after login navigation attempt</description>
+   <name>EX01_TC03_VerifyAppointmentFormFacilityDropdownPresent</name>
+   <tag>EX01,web,test 11,test 22</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e35d80f5-7a63-4e5e-ae72-f2801d5eda6d</testCaseGuid>
+</TestCaseEntity>

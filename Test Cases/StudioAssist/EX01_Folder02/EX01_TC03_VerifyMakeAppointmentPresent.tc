@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sample Web UI test: verify Make Appointment button present</description>
+   <name>EX01_TC03_VerifyMakeAppointmentPresent</name>
+   <tag>EX01,web,test 11,test 22</tag>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e4d6d93c-df66-40ec-8fd4-c36cc646eff5</testCaseGuid>
+</TestCaseEntity>
