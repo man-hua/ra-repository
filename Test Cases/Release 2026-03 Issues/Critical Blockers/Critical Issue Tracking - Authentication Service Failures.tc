@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>Track and verify resolution of authentication service failures (TC-002, TC-004, TC-005). Tests invalid credential handling, user validation, and secure credential processing.</description>
+    <tag></tag>
+    <comment></comment>
+    <name>Critical Issue Tracking - Authentication Service Failures</name>
+    <recordOption>OTHER</recordOption>
+    <testCaseGuid>9b1fd789-7e8b-477b-a0fd-8b2d8e8367e1</testCaseGuid>
+    <integratedEntity>
+        <productName>TESTOPS</productName>
+        <properties>
+            <entry>
+                <key>integratedValue</key>
+                <value>{&quot;author&quot;:null,&quot;status&quot;:&quot;READY_TO_REVIEW&quot;,&quot;assignee&quot;:&quot;man.hua@katalon.com&quot;,&quot;linkedTestCaseIds&quot;:[],&quot;customFields&quot;:{&quot;customField&quot;:[{&quot;key&quot;:&quot;featureArea&quot;,&quot;value&quot;:[&quot;Authentication&quot;,&quot;User Login&quot;,&quot;Security&quot;]},{&quot;key&quot;:&quot;testType&quot;,&quot;value&quot;:[&quot;Critical Issue&quot;,&quot;Authentication&quot;,&quot;Security&quot;,&quot;Release Blocker&quot;]}]},&quot;priority&quot;:&quot;CRITICAL&quot;,&quot;automationStatus&quot;:&quot;MANUAL_ONLY&quot;}</value>
+            </entry>
+        </properties>
+        <type>TESTCASE</type>
+    </integratedEntity>
+</TestCaseEntity>
