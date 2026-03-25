@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>Action item to consolidate 100% manual testing into automated scripts. Currently all 115 tests are manual (0% automation), creating execution bottleneck and limiting platform coverage. Automation will improve speed, consistency, and multi-platform coverage.</description>
+    <tag></tag>
+    <comment></comment>
+    <name>Action Item - Consolidate Manual Tests to Automated Scripts</name>
+    <recordOption>OTHER</recordOption>
+    <testCaseGuid>b51bca55-085c-485f-8973-54aa7e5e5381</testCaseGuid>
+    <integratedEntity>
+        <productName>TESTOPS</productName>
+        <properties>
+            <entry>
+                <key>integratedValue</key>
+                <value>{&quot;author&quot;:null,&quot;status&quot;:&quot;READY_TO_REVIEW&quot;,&quot;assignee&quot;:&quot;man.hua@katalon.com&quot;,&quot;linkedTestCaseIds&quot;:[],&quot;customFields&quot;:{&quot;customField&quot;:[{&quot;key&quot;:&quot;featureArea&quot;,&quot;value&quot;:[&quot;Automation&quot;,&quot;CI/CD&quot;,&quot;Performance&quot;,&quot;Infrastructure&quot;]},{&quot;key&quot;:&quot;testType&quot;,&quot;value&quot;:[&quot;Automation&quot;,&quot;Process Improvement&quot;,&quot;CI/CD&quot;,&quot;Release Readiness&quot;]}]},&quot;priority&quot;:&quot;CRITICAL&quot;,&quot;automationStatus&quot;:null}</value>
+            </entry>
+        </properties>
+        <type>TESTCASE</type>
+    </integratedEntity>
+</TestCaseEntity>
