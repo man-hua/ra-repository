@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>Track 9 unpublished requirements with zero test coverage: Payment gateway consolidation, load balancer integration, cache optimization, notification dependencies, and P2P transfers. This test establishes baseline coverage.</description>
+    <tag></tag>
+    <comment></comment>
+    <name>Coverage Gap - Unpublished Requirements Baseline Tests (9 Requirements)</name>
+    <recordOption>OTHER</recordOption>
+    <testCaseGuid>25d80b2e-327b-4f01-b141-52cb2e310d7c</testCaseGuid>
+    <integratedEntity>
+        <productName>TESTOPS</productName>
+        <properties>
+            <entry>
+                <key>integratedValue</key>
+                <value>{&quot;author&quot;:null,&quot;status&quot;:&quot;READY_TO_REVIEW&quot;,&quot;assignee&quot;:&quot;man.hua@katalon.com&quot;,&quot;linkedTestCaseIds&quot;:[],&quot;customFields&quot;:{&quot;customField&quot;:[{&quot;key&quot;:&quot;featureArea&quot;,&quot;value&quot;:[&quot;Payment&quot;,&quot;Notifications&quot;,&quot;P2P Transfers&quot;,&quot;Integration&quot;]},{&quot;key&quot;:&quot;testType&quot;,&quot;value&quot;:[&quot;Coverage Gap&quot;,&quot;Integration&quot;,&quot;No Test Coverage&quot;]}]},&quot;priority&quot;:&quot;HIGH&quot;,&quot;automationStatus&quot;:&quot;MANUAL_ONLY&quot;}</value>
+            </entry>
+        </properties>
+        <type>TESTCASE</type>
+    </integratedEntity>
+</TestCaseEntity>
