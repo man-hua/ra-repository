@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>Immediate action item: Resolve defect JUL-3457 (P2 - Homepage load failure). This is currently unassigned and blocking user access. Test tracks the complete resolution workflow including investigation, fix, testing, and deployment.</description>
+    <tag></tag>
+    <comment></comment>
+    <name>Immediate Action - Resolve Defect JUL-3457 Homepage Failure</name>
+    <recordOption>OTHER</recordOption>
+    <testCaseGuid>f176b8b9-383f-4b92-80d5-942048d815cb</testCaseGuid>
+    <integratedEntity>
+        <productName>TESTOPS</productName>
+        <properties>
+            <entry>
+                <key>integratedValue</key>
+                <value>{&quot;author&quot;:null,&quot;status&quot;:&quot;READY_TO_REVIEW&quot;,&quot;assignee&quot;:&quot;man.hua@katalon.com&quot;,&quot;linkedTestCaseIds&quot;:[],&quot;customFields&quot;:{&quot;customField&quot;:[{&quot;key&quot;:&quot;featureArea&quot;,&quot;value&quot;:[&quot;Defect Management&quot;,&quot;Homepage&quot;,&quot;Release Readiness&quot;]},{&quot;key&quot;:&quot;testType&quot;,&quot;value&quot;:[&quot;Defect Resolution&quot;,&quot;Release Blocker&quot;,&quot;Immediate Action&quot;]}]},&quot;priority&quot;:&quot;CRITICAL&quot;,&quot;automationStatus&quot;:&quot;MANUAL_ONLY&quot;}</value>
+            </entry>
+        </properties>
+        <type>TESTCASE</type>
+    </integratedEntity>
+</TestCaseEntity>
