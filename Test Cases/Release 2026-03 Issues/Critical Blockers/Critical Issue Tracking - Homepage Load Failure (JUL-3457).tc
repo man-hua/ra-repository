@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>Track and verify resolution of critical defect where homepage fails to load, blocking user access. This test ensures the homepage loads successfully after defect resolution.</description>
+    <tag></tag>
+    <comment></comment>
+    <name>Critical Issue Tracking - Homepage Load Failure (JUL-3457)</name>
+    <recordOption>OTHER</recordOption>
+    <testCaseGuid>fc00eafa-fcbe-47ad-b8e8-52734e6dff81</testCaseGuid>
+    <integratedEntity>
+        <productName>TESTOPS</productName>
+        <properties>
+            <entry>
+                <key>integratedValue</key>
+                <value>{&quot;author&quot;:null,&quot;status&quot;:&quot;READY_TO_REVIEW&quot;,&quot;assignee&quot;:&quot;man.hua@katalon.com&quot;,&quot;linkedTestCaseIds&quot;:[],&quot;customFields&quot;:{&quot;customField&quot;:[{&quot;key&quot;:&quot;featureArea&quot;,&quot;value&quot;:[&quot;Homepage&quot;,&quot;User Access&quot;,&quot;P0 Blocker&quot;]},{&quot;key&quot;:&quot;testType&quot;,&quot;value&quot;:[&quot;Critical Issue&quot;,&quot;Regression&quot;,&quot;Release Blocker&quot;]}]},&quot;priority&quot;:&quot;CRITICAL&quot;,&quot;automationStatus&quot;:&quot;MANUAL_ONLY&quot;}</value>
+            </entry>
+        </properties>
+        <type>TESTCASE</type>
+    </integratedEntity>
+</TestCaseEntity>
