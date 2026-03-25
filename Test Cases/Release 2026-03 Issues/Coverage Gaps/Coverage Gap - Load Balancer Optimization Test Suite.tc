@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>Track load balancer optimization requirement (partially covered with only 3/38 test cases passing). Verifies load distribution, failover mechanisms, and performance optimization.</description>
+    <tag></tag>
+    <comment></comment>
+    <name>Coverage Gap - Load Balancer Optimization Test Suite</name>
+    <recordOption>OTHER</recordOption>
+    <testCaseGuid>c6c83f6f-5ba6-4233-9f45-a04d78d2d5f3</testCaseGuid>
+    <integratedEntity>
+        <productName>TESTOPS</productName>
+        <properties>
+            <entry>
+                <key>integratedValue</key>
+                <value>{&quot;author&quot;:null,&quot;status&quot;:&quot;READY_TO_REVIEW&quot;,&quot;assignee&quot;:&quot;man.hua@katalon.com&quot;,&quot;linkedTestCaseIds&quot;:[],&quot;customFields&quot;:{&quot;customField&quot;:[{&quot;key&quot;:&quot;featureArea&quot;,&quot;value&quot;:[&quot;Load Balancer&quot;,&quot;Infrastructure&quot;,&quot;Performance&quot;]},{&quot;key&quot;:&quot;testType&quot;,&quot;value&quot;:[&quot;Performance&quot;,&quot;Infrastructure&quot;,&quot;Partial Coverage&quot;]}]},&quot;priority&quot;:&quot;HIGH&quot;,&quot;automationStatus&quot;:&quot;MANUAL_ONLY&quot;}</value>
+            </entry>
+        </properties>
+        <type>TESTCASE</type>
+    </integratedEntity>
+</TestCaseEntity>
