@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+    <description>Track configuration coverage gap - currently testing only on Windows 11 + Chrome 135 (single platform, 61% pass rate below 90% threshold). Establishes baseline for multi-platform testing.</description>
+    <tag></tag>
+    <comment></comment>
+    <name>Configuration Coverage - Cross-Browser and Multi-Platform Testing</name>
+    <recordOption>OTHER</recordOption>
+    <testCaseGuid>2ab0cf8d-593d-488a-8482-4354fd389b45</testCaseGuid>
+    <integratedEntity>
+        <productName>TESTOPS</productName>
+        <properties>
+            <entry>
+                <key>integratedValue</key>
+                <value>{&quot;author&quot;:null,&quot;status&quot;:&quot;READY_TO_REVIEW&quot;,&quot;assignee&quot;:&quot;man.hua@katalon.com&quot;,&quot;linkedTestCaseIds&quot;:[],&quot;customFields&quot;:{&quot;customField&quot;:[{&quot;key&quot;:&quot;featureArea&quot;,&quot;value&quot;:[&quot;Browser Compatibility&quot;,&quot;Cross-Platform&quot;,&quot;Configuration&quot;]},{&quot;key&quot;:&quot;testType&quot;,&quot;value&quot;:[&quot;Configuration Coverage&quot;,&quot;Cross-Browser&quot;,&quot;Cross-Platform&quot;]}]},&quot;priority&quot;:&quot;HIGH&quot;,&quot;automationStatus&quot;:&quot;MANUAL_ONLY&quot;}</value>
+            </entry>
+        </properties>
+        <type>TESTCASE</type>
+    </integratedEntity>
+</TestCaseEntity>
